@@ -13,7 +13,7 @@ import lombok.Setter;
 @Entity
 public class PecaModel {
     
-    public String nomePeca , casaInicial, cor , casasSobreAtaque ;
+    public String nomePeca , casaInicial, casaAtual, casasSobreAtaque ,  cor ;
     public double pontosValor;
     
 }

@@ -10,16 +10,4 @@ public class PawnModel extends PecaModel {
     public double getPontosValor() {
         return 1.0;
     }
-    @Override
-    public String getCasasSobreAtaque() {
-        return "";
-    }
-    @Override
-    public String getCasaInicial() {
-        return "";
-    }
-    @Override
-    public String getCor(){
-        return "";
-    }
 }

@@ -10,16 +10,4 @@ public class RainhaModel extends PecaModel {
     public double getPontosValor() {
         return 9.0;
     }
-    @Override
-    public String getCasasSobreAtaque() {
-        return "";
-    }
-    @Override
-    public String getCasaInicial() {
-        return "";
-    }
-    @Override
-    public String getCor(){
-        return "";
-    }
 }
