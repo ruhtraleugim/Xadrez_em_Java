@@ -9,4 +9,5 @@ import lombok.Setter;
 public class TabuleiroModel {
     protected final int[][] tabuleiro = new int[8][8];
     public String corDaCasa;
+    public int[][] tabuleiroModel;
 }
