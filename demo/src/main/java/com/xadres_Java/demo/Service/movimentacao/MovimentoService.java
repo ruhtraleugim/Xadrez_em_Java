@@ -1,8 +1,8 @@
-package com.xadres_Java.demo.Service;
+package com.xadres_Java.demo.Service.movimentacao;
 
 import org.springframework.stereotype.Service;
 
-import com.xadres_Java.demo.Model.PecaModel;
+import com.xadres_Java.demo.Model.Pecas.PecaModel;
 
 @Service
 public class MovimentoService {

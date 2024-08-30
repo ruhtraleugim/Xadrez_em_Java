@@ -12,7 +12,8 @@ import lombok.Setter;
 @AllArgsConstructor
 @NoArgsConstructor
 public class JogadorModel {
-    public int id;
-    public int name;
-    public int rating;
+    private int id;
+    private int name;
+    private int rating;
+    private int turno;
 }

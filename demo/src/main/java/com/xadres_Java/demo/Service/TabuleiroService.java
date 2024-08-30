@@ -10,8 +10,8 @@ public class TabuleiroService {
         for(int i=0; i<8 ; i++){
             for(int j=0; j<8 ; j++){
                 if( (i+j)%2  == 0){
-                    tabuleiroBinario[i][j] = 0;
-                }else tabuleiroBinario[i][j] = 1;           
+                    tabuleiroBinario[i][j] = 1;
+                }else tabuleiroBinario[i][j] = 0;           
             }
         }
         return tabuleiroBinario;

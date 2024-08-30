@@ -1,4 +1,4 @@
-package com.xadres_Java.demo.Model;
+package com.xadres_Java.demo.Model.Pecas;
 
 import jakarta.persistence.Entity;
 import lombok.AllArgsConstructor;
